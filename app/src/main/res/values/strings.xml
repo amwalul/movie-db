@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+
+    <string name="retry">Retry</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Overview</string>
+    <string name="reviews">Reviews</string>
+    <string name="rating_format">%1$.1f/10</string>
+</resources>
